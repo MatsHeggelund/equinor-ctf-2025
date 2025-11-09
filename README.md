@@ -35,6 +35,7 @@ Steps:
  - **[LOUD CRM](/writeups/web/LOUD%20CRM)**
  - **[Yarr!](/writeups/web/Yarr!)**
  - **[Of CORS I Can Help!](/writeups/web/Of%20CORS%20I%20Can%20Help!)**
+	 - [Kernel Carnage](/writeups/web/Of%20CORS%20I%20Can%20Help!/Kernel%20Carnage)  
  - **[ScriptMe](/writeups/web/ScriptMe)**
  - **[EPT Cinemas](/writeups/web/EPT%20Cinemas)**
  - **[Secretadmin](/writeups/web/Secretadmin)**
