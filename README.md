@@ -45,6 +45,7 @@ Steps:
 	 - [bwnfools](/writeups/web/Of%20CORS%20I%20Can%20Help!/bwnfools)  
 	 - [synapse_burnout](/writeups/web/Of%20CORS%20I%20Can%20Help!/synapse_burnout)  
  - **[ScriptMe](/writeups/web/ScriptMe)**
+	 - [B00S](/writeups/web/ScriptMe/B00S)  
  - **[EPT Cinemas](/writeups/web/EPT%20Cinemas)**
 	 - [big](/writeups/web/EPT%20Cinemas/big)  
 	 - [B00S](/writeups/web/EPT%20Cinemas/B00S)  
@@ -88,6 +89,7 @@ Steps:
 ### boot2root
  - **[cve-safari](/writeups/boot2root/cve-safari)**
  - **[PotatoHead (user)](/writeups/boot2root/PotatoHead%20(user))**
+	 - [B00S](/writeups/boot2root/PotatoHead%20(user)/B00S)  
 	 - [bwnfools](/writeups/boot2root/PotatoHead%20(user)/bwnfools)  
 	 - [RumbleInTheJungle](/writeups/boot2root/PotatoHead%20(user)/RumbleInTheJungle)  
 	 - [WinnieThePwn](/writeups/boot2root/PotatoHead%20(user)/WinnieThePwn)  
@@ -106,6 +108,7 @@ Steps:
 ### misc
  - **[EPT Flag Ship](/writeups/misc/EPT%20Flag%20Ship)**
  - **[Wolf3d](/writeups/misc/Wolf3d)**
+	 - [B00S](/writeups/misc/Wolf3d/B00S)  
 	 - [RumbleInTheJungle](/writeups/misc/Wolf3d/RumbleInTheJungle)  
  - **[Norges Aller Beste Hacker - Level 1](/writeups/misc/Norges%20Aller%20Beste%20Hacker%20-%20Level%201)**
 	 - [enso](/writeups/misc/Norges%20Aller%20Beste%20Hacker%20-%20Level%201/enso)  
@@ -117,9 +120,11 @@ Steps:
  - **[Zippy](/writeups/misc/Zippy)**
  - **[Cubeguessr](/writeups/misc/Cubeguessr)**
 	 - [Iku-toppene](/writeups/misc/Cubeguessr/Iku-toppene)  
+	 - [B00S](/writeups/misc/Cubeguessr/B00S)  
 	 - [Girls Night Out](/writeups/misc/Cubeguessr/Girls%20Night%20Out)  
  - **[Agents](/writeups/misc/Agents)**
 	 - [UiACTF](/writeups/misc/Agents/UiACTF)  
+	 - [B00S](/writeups/misc/Agents/B00S)  
 	 - [bwnfools](/writeups/misc/Agents/bwnfools)  
  - **[Buffy the fortune teller](/writeups/misc/Buffy%20the%20fortune%20teller)**
 ### reversing
@@ -127,11 +132,13 @@ Steps:
 	 - [highly-regarded](/writeups/reversing/Frozen%20Labyrinth/highly-regarded)  
  - **[Broken Mario 2](/writeups/reversing/Broken%20Mario%202)**
  - **[FlagChecker](/writeups/reversing/FlagChecker)**
+	 - [B00S](/writeups/reversing/FlagChecker/B00S)  
 	 - [BaneNOR](/writeups/reversing/FlagChecker/BaneNOR)  
 	 - [enso](/writeups/reversing/FlagChecker/enso)  
  - **[EPTBoy Strikes Back](/writeups/reversing/EPTBoy%20Strikes%20Back)**
 	 - [ekho](/writeups/reversing/EPTBoy%20Strikes%20Back/ekho)  
  - **[FlagPrinter](/writeups/reversing/FlagPrinter)**
+	 - [B00S](/writeups/reversing/FlagPrinter/B00S)  
 	 - [bwnfools](/writeups/reversing/FlagPrinter/bwnfools)  
 	 - [BaneNOR](/writeups/reversing/FlagPrinter/BaneNOR)  
  - **[EPTBoy](/writeups/reversing/EPTBoy)**
