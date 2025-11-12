@@ -44,6 +44,7 @@ Steps:
 	 - [sifi](/writeups/web/Of%20CORS%20I%20Can%20Help!/sifi)  
 	 - [bwnfools](/writeups/web/Of%20CORS%20I%20Can%20Help!/bwnfools)  
 	 - [synapse_burnout](/writeups/web/Of%20CORS%20I%20Can%20Help!/synapse_burnout)  
+	 - [RumbleInTheJungle](/writeups/web/Of%20CORS%20I%20Can%20Help!/RumbleInTheJungle)  
  - **[ScriptMe](/writeups/web/ScriptMe)**
 	 - [B00S](/writeups/web/ScriptMe/B00S)  
  - **[EPT Cinemas](/writeups/web/EPT%20Cinemas)**
