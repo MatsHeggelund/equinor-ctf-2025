@@ -1,5 +1,7 @@
 # EPT Cinemas Writeup - Team B00S
 
+`Author: Bludsoe`
+
 Since the task description was `Sometimes you can still find one of the most classical errors in even the most modern applications.`, I assumed the exploit here would be something very simple within web-hacking. By looking around on the website and in the source code, I was quickly able to find a SQL injection vulnerability. 
 
 <img src="./images/vulnerability.png" width="100%" height="75%">

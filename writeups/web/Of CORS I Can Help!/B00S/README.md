@@ -1,5 +1,7 @@
 # Of CORS I Can Help! Writeup - Team B00S
 
+`Author: Bludsoe`
+
 The first thing I did was check the source code for the task. Here I was able to find two crucial parts of the code. The first crucial part, is the actual function responsible for either giving the value of the flag if the user has permission (which Jenny has) or give an error if the access is forbidden.
 
 <img src="./images/get_flag.png" width=75%>

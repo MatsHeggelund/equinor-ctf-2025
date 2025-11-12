@@ -1,5 +1,7 @@
 # Breadcrumbs Writeup - Team B00S
 
+`Author: Bludsoe`
+
 The first thing we did was to figure out the functionality of the page. The page contained a simple "keyboard" with a set of characters,
 and by clicking on them you would either get no form of response on the page, or get the letter you clicked as output.
 

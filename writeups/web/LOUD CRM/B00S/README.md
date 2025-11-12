@@ -1,5 +1,7 @@
 # LOUD CRM Writeup - Team B00S
 
+`Author: Bludsoe`
+
 By looking at the source code we were given, I was able to find a weakness in the code that made it possible to bypass the registration checks, and overwrite Alice's password to something I knew
 
 <img src="./images/vulnerability.png" width="100%">
